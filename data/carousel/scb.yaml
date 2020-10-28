@@ -1,0 +1,12 @@
+weight: 4
+title: "Scientific Computing for Biologists"
+description: >
+  <ul class="list-style-none">
+    <li>UNIX</li>
+    <li>Python</li>
+    <li>R Programming</li>
+    <li>Bioinformatics</li>
+    <li>Data Analysis</li>
+
+  </ul>
+image: "img/carousel/template-easy-code.png"
