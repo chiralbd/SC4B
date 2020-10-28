@@ -30,7 +30,17 @@ paginate = 10
 #     name = "Blog"
 #     url  = "/blog/"
 #     weight = 2
+[[menu.main]]
+  identifier = "overview"
+  name = "Overview"
+  url  = "/overview/"
+  weight = 1
 
+  [[menu.main]]
+    identifier = "people"
+    name = "People"
+    url  = "/people/"
+    weight = 2
 [[menu.main]]
     identifier = "faq"
     name = "FAQ"

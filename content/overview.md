@@ -1,4 +1,10 @@
-# Introduction to Scientific Computing for Biologists
++++
+title = "Course Overview"
+description = "Course Overview"
+keywords = ["ISCB","How do I","questions","what if"]
++++
+
+## Introduction to Scientific Computing for Biologists
 Code | Course Name | Duration | Effort
 :-- | :--: | :--: | :--:
 ISCB20.01 | [Introduction to Linux/UNIX for Biologists](#) | 1 week, 3 Days | 3 Hours/Week
@@ -11,6 +17,7 @@ ISCB20.07 | [Introduction to Data Analysis using Python](#) | 1 week, 3 Days | 3
 ISCB20.08 | [Biostatistics with R](#) | 1 week, 1 Days |3 Hours/Week  |   |   |
 ISCB20.09 | [Introduction to Data Analysis using R](#) | 1 week, 3 Days | 3 Hours/Week
 ISCB20.10 | [Projects](#) | 1 week, 3 Days | 3 Hours/Week
+
 
 # Resources
 
