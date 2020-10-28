@@ -83,15 +83,15 @@
   </url>
   
   <url>
+    <loc>https://hdro.github.io/SC4B/ascb/</loc>
+  </url>
+  
+  <url>
     <loc>https://hdro.github.io/SC4B/contact/</loc>
   </url>
   
   <url>
     <loc>https://hdro.github.io/SC4B/people/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hdro.github.io/SC4B/overview/</loc>
   </url>
   
   <url>
@@ -103,11 +103,19 @@
   </url>
   
   <url>
+    <loc>https://hdro.github.io/SC4B/iscb/</loc>
+  </url>
+  
+  <url>
     <loc>https://hdro.github.io/SC4B/categories/lorem/</loc>
   </url>
   
   <url>
     <loc>https://hdro.github.io/SC4B/blog/1/01/01/migrate-from-jekyll/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hdro.github.io/SC4B/overview/</loc>
   </url>
   
 </urlset>
