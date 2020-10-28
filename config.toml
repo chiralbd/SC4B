@@ -1,4 +1,4 @@
-baseurl = "https://hdro.github.io/ISCB/"
+baseurl = "https://hdro.github.io/SC4B/"
 title = "Scientific Computing for Biologists"
 
 theme = "hugo-universal-theme"
