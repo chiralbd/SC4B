@@ -36,27 +36,34 @@ paginate = 10
   url  = "/overview/"
   weight = 1
 
-[[menu.main]]
-  identifier = "iscb"
-  name = "ISCB"
-  url  = "/iscb/"
-  weight = 2
-  [[menu.main]]
-    identifier = "ascb"
-    name = "ASCB"
-    url  = "/ascb/"
-    weight = 3
+# [[menu.main]]
+#   identifier = "iscb"
+#   name = "ISCB"
+#   url  = "/iscb/"
+#   weight = 2
+
 
   [[menu.main]]
-    identifier = "people"
-    name = "People"
-    url  = "/people/"
+    identifier = "iscb_plan"
+    name = "Course Plan"
+    url  = "/iscb_plan/"
+    weight = 3
+  [[menu.main]]
+    identifier = "instructors"
+    name = "Instructors"
+    url  = "/instructors/"
     weight = 4
+
+
 # [[menu.main]]
 #     identifier = "faq"
 #     name = "FAQ"
 #     url  = "/faq/"
 #     weight = 5
+[[menu.main]]
+    name = "Enroll"
+    url  = "https://forms.gle/1JrQX9c5zjYCpAx6A"
+    weight = 5
 
 [[menu.main]]
     identifier = "contact"
@@ -125,7 +132,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "iscb@gmail.com"
+    email = "hdrocourses.iscb@gmail.com"
     contact_form_ajax = true
 
     about_us = "<p>HDRO stands for Health Data Research Organization. We are a voluntary non-profit research platform, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics.</p>"

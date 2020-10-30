@@ -53,19 +53,6 @@ keywords = ["ISCB","How do I","questions","what if"]
 <br>
 <br>
 
-Code | Course Name | Duration | Effort
-:--: |:--:| :--: | :--:
-ISCB20.01 | [Introduction to Linux/UNIX for Biologists](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.02 | [ToolBox for Scientific Computing](https://github.com/hdro/ISCB1002) | 1 week, 3 Days| 3 Hours/Week
-ISCB20.03 | [Version Control with Git & Github](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.04 | [Introduction to Python](https://github.com/hdro/ISCB1006) | 1 week 3 Days | 3 Hours/Week
-ISCB20.05 | [Python  for Bioinformatics](#) | 1 week, 1 Days |3 Hours/Week
-ISCB20.06 | [Biostatistics with Python](#) | 1 week, 1 Days |3 Hours/Week
-ISCB20.07 | [Introduction to Data Analysis using Python](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.08 | [Biostatistics with R](#) | 1 week, 1 Days |3 Hours/Week  |   |   |
-ISCB20.09 | [Introduction to Data Analysis using R](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.10 | [Projects](#) | 1 week, 3 Days | 3 Hours/Week
-
 ## Recomended BOOKS
 
 - Automate the Boring Stuff with Python
@@ -79,6 +66,3 @@ ISCB20.10 | [Projects](#) | 1 week, 3 Days | 3 Hours/Week
 - Machine Learning Cookbook
 - BioPython Cookbook
 - Introduction to R Programming
-
-<hr>
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This course by  HDRO is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
