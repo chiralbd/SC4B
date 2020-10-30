@@ -46,7 +46,7 @@ paginate = 10
   [[menu.main]]
     identifier = "iscb_plan"
     name = "Course Plan"
-    url  = "/iscb_plan/"
+    url  = "/course_plan/"
     weight = 3
   [[menu.main]]
     identifier = "instructors"
