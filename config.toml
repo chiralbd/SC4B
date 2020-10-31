@@ -54,7 +54,6 @@ paginate = 10
     url  = "/instructors/"
     weight = 4
 
-
 # [[menu.main]]
 #     identifier = "faq"
 #     name = "FAQ"
@@ -107,7 +106,7 @@ paginate = 10
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "hdrobd.org" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/scb_social.png"
+    default_sharing_image = "img/Scientific-Computing-for-Biologists.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
@@ -156,7 +155,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +88017705552551 or iscb@gmail.com</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +88017705552551 or hdrocourses.iscb@gmail.com</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -189,7 +188,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
     #subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
