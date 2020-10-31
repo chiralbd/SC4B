@@ -1,15 +1,15 @@
 # Introduction to Scientific Computing for Biologists
 Code | Course Name | Duration | Effort
 :-- | :--: | :--: | :--:
-ISCB20.01 | [Introduction to Linux/UNIX for Biologists](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.02 | [ToolBox for Scientific Computing](https://github.com/hdro/ISCB1002) | 1 week, 3 Days| 3 Hours/Week
+ISCB20.01 | [Introduction to Linux for Biologists](#) | 1 week, 3 Days | 3 Hours/Week
+ISCB20.02 | [Scientific Typesetting](https://github.com/hdro/ISCB1002) | 1 week, 3 Days| 3 Hours/Week
 ISCB20.03 | [Version Control with Git & Github](#) | 1 week, 3 Days | 3 Hours/Week
 ISCB20.04 | [Introduction to Python](https://github.com/hdro/ISCB1006) | 1 week 3 Days | 3 Hours/Week
-ISCB20.05 | [Python  for Bioinformatics](#) | 1 week, 1 Days |3 Hours/Week
-ISCB20.06 | [Biostatistics with Python](#) | 1 week, 1 Days |3 Hours/Week
-ISCB20.07 | [Introduction to Data Analysis using Python](#) | 1 week, 3 Days | 3 Hours/Week
-ISCB20.08 | [Biostatistics with R](#) | 1 week, 1 Days |3 Hours/Week  |   |   |
-ISCB20.09 | [Introduction to Data Analysis using R](#) | 1 week, 3 Days | 3 Hours/Week
+ISCB20.05 | [Introduction to Biostatistics](#) | 1 week, 1 Days |3 Hours/Week
+ISCB20.06 | [Python for Scientific Computing](#) | 1 week, 1 Days |3 Hours/Week
+ISCB20.07 | [Introduction to Bioinformatics](#) | 1 week, 3 Days | 3 Hours/Week
+ISCB20.08 | [Python for Bioinformatics](#) | 1 week, 1 Days |3 Hours/Week  |   |   |
+ISCB20.09 | [Introduction to R](#) | 1 week, 3 Days | 3 Hours/Week
 ISCB20.10 | [Projects](#) | 1 week, 3 Days | 3 Hours/Week
 
 # Resources

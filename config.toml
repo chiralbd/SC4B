@@ -62,7 +62,7 @@ paginate = 10
 #     weight = 5
 [[menu.main]]
     name = "Enroll"
-    url  = "https://forms.gle/1JrQX9c5zjYCpAx6A"
+    url  = "https://forms.gle/BKogJ2ocnx5pXgBZ9"
     weight = 5
 
 [[menu.main]]
