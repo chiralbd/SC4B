@@ -116,7 +116,7 @@ paginate = 10
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -140,8 +140,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-     logo = "img/logo2.png"
-    logo_small = "img/logo2.png"
+    logo = "img/logo.png"
+    logo_small = "img/logo.png"
     address = """<p class="text-uppercase"><strong>Health Data Research Organization</strong>
         <br>33/3A, Shornolota
         <br>Azimpur
@@ -186,6 +186,15 @@ paginate = 10
     # For more informtion take a look at the README.
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.teams]
+  enable = true
+  # All testimonials are defined in their own files. You can find example items
+  # at 'exampleSite/data/testimonials'.
+  # For more informtion take a look at the README.
+  title = "Testimonials"
+  subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
 
 [params.see_more]
     enable = false

@@ -1,0 +1,11 @@
+weight: 1
+title: "Bioinformatics"
+description: >
+  <ul class="list-style-none">
+    <li>Introduction to Bioinformatics</li>
+    <li>Molecular Biology for Bioinformatics</li>
+    <li>DNA Sequence Analysis</li>
+    <li>Protein Sequence Analysis</li>
+
+  </ul>
+image: "img/carousel/hdro-bioinfo-thumbnail.jpg"

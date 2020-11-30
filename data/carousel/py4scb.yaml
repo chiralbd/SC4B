@@ -1,0 +1,9 @@
+weight: 1
+title: "Python for Scientific Computing"
+description: >
+  <ul class="list-style-none">
+    <li>Introduction to NumPy</li>
+    <li>Pandas for Data Analysis</li>
+    <li>Data Visualization with Matplotlib</li>
+  </ul>
+image: "img/carousel/hdro-python-sci-computing-thumbnail.jpg"

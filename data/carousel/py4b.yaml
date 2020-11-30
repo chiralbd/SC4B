@@ -1,0 +1,10 @@
+weight: 1
+title: "Python for Bioinformatics"
+description: >
+  <ul class="list-style-none">
+    <li>Sequence Processing with Python</li>
+    <li>Introduction to Biopython</li>
+    <li>Introduction to BioPandas</li>
+    <li>Introduction to Scikit-bio</li>
+  </ul>
+image: "img/carousel/hdro-py4bioinfo-thumbnail.jpg"
