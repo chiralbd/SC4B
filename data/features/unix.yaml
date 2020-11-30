@@ -1,5 +1,7 @@
 weight: 1
 name: "UNIX/Linux"
 icon: "fab fa-linux"
-url: ""
-#description: "Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring."
+url: "https://github.com/hdro/ISCB20.01"
+description: >
+  Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.
+  <a href="https://github.com/hdro/ISCB20.01">See Course Material</a>

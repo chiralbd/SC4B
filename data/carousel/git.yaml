@@ -1,10 +1,10 @@
-weight: 1
+weight: 4
 title: "Git & Github"
 description: >
   <ul class="list-style-none">
     <li>Introduction to Version Control</li>
     <li>Project Management with Git</li>
     <li>Working with Team</li>
-    
+
   </ul>
-image: "img/carousel/py4bioinformatics.jpg"
+image: "img/carousel/hdro-git&github-thumbnail.jpg"

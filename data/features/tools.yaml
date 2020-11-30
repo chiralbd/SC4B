@@ -1,5 +1,7 @@
 weight: 2
-name: "Scientific Tools"
+name: "Scientific Typesetting"
 icon: "fas fa-tools"
-url: ""
-#description: "Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring."
+url: "https://github.com/hdro/ISCB20.02"
+description: >
+  LaTeX is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in "What You See Is What You Get" word processors like Microsoft Word, LibreOffice Writer and Apple Pages.
+  <a href="https://github.com/hdro/ISCB20.02">See Course Material</a>

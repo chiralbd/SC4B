@@ -1,8 +1,10 @@
-weight: 1
-title: "Git & Github"
+weight: 6
+title: "Biostatistics"
 description: >
   <ul class="list-style-none">
-    <li>Introduction to Version Control</li>
-    <li>Project Management with Git</li>
+    <li>Introduction to Biostatistics	</li>
+    <li>Normal Distribution & Data Summary	</li>
+    <li>Introduction to Hypothesis Testing	</li>
+
   </ul>
-image: "img/carousel/py4bioinformatics.jpg"
+image: "img/carousel/hdro-biostats-thumbnail.jpg"
